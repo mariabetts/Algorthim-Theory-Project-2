@@ -1,0 +1,15 @@
+Task 40
+Each player has the following characteristics in the list of football players:
+● Position (attacker, defender, safeguard, goalkeeper);
+● Age (up to 25; 26-35; over 35);
+● Height (up to 160; 180; over 180)
+Each player is listed on the list according to the characteristics mentioned above.
+The following options must be provided:
+1. Add a player to the lists while maintaining the sorting of the players by its names.
+2. Remove the player from the list.
+3. Output the characteristics of the specified player (by surname).
+4. Output the sorted by names list of players by specifying a specific character (for example, the
+" safeguard " position).
+5. Transfer the player from the lower to the higher age group or from one position to another.
+The players' names must be stored in one memory place only (one copy), and the lists must be based on address chains.
+Enable a quick search on the football players list (use the hash tables, implement the hash function using player number).
